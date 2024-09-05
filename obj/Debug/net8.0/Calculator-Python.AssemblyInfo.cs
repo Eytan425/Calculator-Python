@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculator-Python")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dc670d51b403514420e30a261346b897a52bd3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74629d386f5476fc7f0be220e08382f2f0967dd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculator-Python")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculator-Python")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
