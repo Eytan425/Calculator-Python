@@ -1,0 +1,15 @@
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\bin\Debug\net8.0\Calculator-Python.exe
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\bin\Debug\net8.0\Calculator-Python.deps.json
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\bin\Debug\net8.0\Calculator-Python.runtimeconfig.json
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\bin\Debug\net8.0\Calculator-Python.dll
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\bin\Debug\net8.0\Calculator-Python.pdb
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\Calculator-Python.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\Calculator-Python.AssemblyInfoInputs.cache
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\Calculator-Python.AssemblyInfo.cs
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\Calculator-Python.csproj.CoreCompileInputs.cache
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\Calculator-Python.sourcelink.json
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\Calculator-Python.dll
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\refint\Calculator-Python.dll
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\Calculator-Python.pdb
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\Calculator-Python.genruntimeconfig.cache
+c:\Users\Eytan\Documents\GitHub\Calculator-Python\obj\Debug\net8.0\ref\Calculator-Python.dll
